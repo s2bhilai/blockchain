@@ -21,7 +21,8 @@
     "express": "^4.16.3",
     "jest": "^29.5.0",
     "redis": "^2.8.0",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "uuid": "^3.3.2"
   },
   "devDependencies": {
     "cross-env": "^5.2.0",
